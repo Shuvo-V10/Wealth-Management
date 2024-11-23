@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wealth Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6c9cec4b4143d9081e86d162d8c4ba5279f85763")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wealth Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wealth Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|solutionrelative:wealth management\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|c:\\users\\shuvo\\source\\repos\\wealth management\\wealth management\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|solutionrelative:wealth management\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|c:\\users\\shuvo\\source\\repos\\wealth management\\wealth management\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|solutionrelative:wealth management\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|c:\\users\\shuvo\\source\\repos\\wealth management\\wealth management\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|solutionrelative:wealth management\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|c:\\users\\shuvo\\source\\repos\\wealth management\\wealth management\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|solutionrelative:wealth management\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|c:\\users\\shuvo\\source\\repos\\wealth management\\wealth management\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|solutionrelative:wealth management\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C43816-B730-4878-BBE7-8242F85D284F}|Wealth Management\\Wealth Management.csproj|c:\\users\\shuvo\\source\\repos\\wealth management\\wealth management\\wealth management.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -41,8 +41,7 @@
               "ToolTip": "C:\\Users\\shuvo\\source\\repos\\Wealth Management\\Wealth Management\\Wealth Management.csproj",
               "RelativeToolTip": "Wealth Management\\Wealth Management.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T15:02:09.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T15:02:09.576Z"
             },
             {
               "$type": "Document",
@@ -59,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\shuvo\\source\\repos\\Wealth Management\\Wealth Management\\AppShell.xaml",
               "RelativeDocumentMoniker": "Wealth Management\\AppShell.xaml",
@@ -72,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\shuvo\\source\\repos\\Wealth Management\\Wealth Management\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Wealth Management\\MainPage.xaml.cs",
@@ -91,7 +90,7 @@
               "RelativeDocumentMoniker": "Wealth Management\\MainPage.xaml",
               "ToolTip": "C:\\Users\\shuvo\\source\\repos\\Wealth Management\\Wealth Management\\MainPage.xaml",
               "RelativeToolTip": "Wealth Management\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-23T13:42:07.563Z",
               "EditorCaption": ""

@@ -9,9 +9,15 @@
             VerticalOptions="FillAndExpand" 
         />-->
 
-    <WebView Source="https://www.youtube.com/watch?v=LXZfrnBasNU"/>
+    <!--<WebView Source="https://www.youtube.com/watch?v=LXZfrnBasNU"
+        HorizontalOptions="FillAndExpand"
+        VerticalOptions="FillAndExpand"    
+    />-->
 
-    <!--<WebView Source="https://onlineservices.idlc.com"/>-->
+    <WebView x:Name="webView"
+             Source="https://idlc.com/"
+             HorizontalOptions="FillAndExpand"
+             VerticalOptions="FillAndExpand" />
 
 
 </ContentPage>

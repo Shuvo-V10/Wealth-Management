@@ -11,15 +11,15 @@ namespace Wealth_Management
             InitializeComponent();
         }
 
-        //protected override bool OnBackButtonPressed()
-        //{
-        //    if (webView.CanGoBack)
-        //    {
-        //        webView.GoBack(); // Navigate back in the WebView
-        //        return true;      // Prevent the default back behavior
-        //    }
-        //    return base.OnBackButtonPressed(); // Default behavior
-        //}
+        protected override bool OnBackButtonPressed()
+        {
+            if (webView.CanGoBack)
+            {
+                webView.GoBack(); // Navigate back in the WebView
+                return true;      // Prevent the default back behavior
+            }
+            return base.OnBackButtonPressed(); // Default behavior
+        }
     }
 
 }

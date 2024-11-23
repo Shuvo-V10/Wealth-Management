@@ -304,3 +304,4 @@ C:\Users\shuvo\source\repos\Wealth Management\Wealth Management\obj\Debug\net8.0
 C:\Users\shuvo\source\repos\Wealth Management\Wealth Management\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Wealth Management.pdb
 C:\Users\shuvo\source\repos\Wealth Management\Wealth Management\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Wealth Management.genruntimeconfig.cache
 C:\Users\shuvo\source\repos\Wealth Management\Wealth Management\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Wealth Management.dll
+C:\Users\shuvo\source\repos\Wealth Management\Wealth Management\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Wealth Management.sourcelink.json
