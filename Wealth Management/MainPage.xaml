@@ -1,0 +1,17 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Wealth_Management.MainPage">
+
+
+    <!--<WebView x:Name="webView"
+            Source="https://onlineservices.idlc.com/login.php"
+            HorizontalOptions="FillAndExpand"
+            VerticalOptions="FillAndExpand" 
+        />-->
+
+    <WebView Source="https://www.youtube.com/watch?v=LXZfrnBasNU"/>
+
+    <!--<WebView Source="https://onlineservices.idlc.com"/>-->
+
+
+</ContentPage>
